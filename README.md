@@ -66,8 +66,15 @@ Las pruebas experimentales determinaron que la **mejor configuración** para equ
 
 ## 📸 Capturas y modelos
 Todos los modelos generados en este proyecto están disponibles [aquí](https://drive.google.com/file/d/1v5OBTtKRCcz6DovRZ3YLh0b1-Ir5zWlR/view?usp=sharing)
-
-
+![Algoritmos relleno 3D](algoritmos_rellena.png)
+![Experimento rotura](experimento_rotura1.png)
+![Experimento rotura](experimento_rotura2.png)
+![Experimento rotura](experimento_rotura3.png)
+![Blender assets](blender_assets1.png)
+![Blender assets](blender_assets2.png)
+![Blender assets](blender_assets3.png)
+![Vestido lamia](vestido_lamia.png)
+![Modelo lamia](modelo_lamia.png)
 
 ---
 
